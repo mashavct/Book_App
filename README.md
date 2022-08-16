@@ -5,3 +5,7 @@ Random app for iOS and Android with the following functionality:
 3. Photo editing (size, brightness), applying filters.
 4. Adding a comment (description) to the photo.
 5. Saving / publishing a photo.
+
+My mobile device: Xiaomi 11 Lite 5G NE,
+MIUI version: 13.0.4,
+Android version: 12 SKQ1.211006.001
