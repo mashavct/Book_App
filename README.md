@@ -9,3 +9,5 @@ Random app for iOS and Android with the following functionality:
 My mobile device: Xiaomi 11 Lite 5G NE,
 MIUI version: 13.0.4,
 Android version: 12 SKQ1.211006.001
+
+Project link: https://team-sgs5.testit.software/browse/1
